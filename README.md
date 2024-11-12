@@ -25,7 +25,7 @@ Methods:
 
 The `InventoryManagementSystem` class manages the entire inventory, user authentication, and provides the functionality for both users and admins.
 
-Attributes:**
+Attributes:
 - products: A dictionary that stores products with their unique `product_id` as the key.
 - users: A dictionary that stores users' login credentials and roles (admin or user).
 
