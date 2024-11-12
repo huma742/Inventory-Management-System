@@ -20,7 +20,6 @@ Methods:
 - adjust_stock: Method to adjust the stock quantity by adding or subtracting a specified quantity.
 - __str__: Method to return a string representation of the product, displaying the product's ID, name, category, price, and stock quantity in a readable format.
 
----
 
 2. InventoryManagementSystem Class
 
