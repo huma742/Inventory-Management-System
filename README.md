@@ -69,12 +69,14 @@ The program starts by running the **`ims.run()`** method. Here’s how the flow 
     - Adjust stock quantities
     - Log out
 
-### **3.User Menu**: Once logged in as a user, the user can perform the following tasks:
+### **3.User Menu**: 
+     Once logged in as a user, the user can perform the following tasks:
     - View the entire inventory
     - Search for products based on name or category
     - Log out
 
- ### **4. Product Management**: For both admins and users, the `Product` class is used to manage product attributes and manipulate stock levels. Admins have full access to modify products, whereas users have only view and search capabilities.
+ ### **4. Product Management**: 
+     For both admins and users, the `Product` class is used to manage product attributes and manipulate stock levels. Admins have full access to modify products, whereas users have only view and search capabilities.
 
 
 
